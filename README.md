@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">🚀 Aspiring Management Trainee | Indie Game Developer | Logistics & Supply Chain Enthusiast | Tech Evangelist 🚀</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/banner-image.png" alt="Banner Image" width="80%"/>
+  <img src="[https://user-images.githubusercontent.com/your-image-path/banner-image.png](https://media.licdn.com/dms/image/v2/D4E03AQF5MYpPmGX5BA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727337120282?e=1732752000&v=beta&t=OpPseDBFsvAoULxOdQ_1JeT6UITkw-YuDDK2RaZOTko)" alt="Banner Image" width="80%"/>
 </p>
 
 <!-- Badges -->
